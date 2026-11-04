@@ -1,7 +1,7 @@
 name: Local
 values:
   - key: baseUrl
-    value: 'http://localhost:4500'
+    value: 'http://localhost:64731'
     enabled: true
   - key: jwtSecret
     value: YS1zdHJpbmctc2VjcmV0LWF0LWxlYXN0LTI1Ni1iaXRzLWxvbmc=
